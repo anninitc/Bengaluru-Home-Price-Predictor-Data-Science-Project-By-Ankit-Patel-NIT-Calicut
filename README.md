@@ -1,2 +1,2 @@
-# Bengaluru-Home-Price-Prediction-Data-Science-Machine-Learning-Model-By-Ankit-Patel-NIT-Calicut
-Bengaluru Home Price Prediction Data Science Machine Learning Model By Ankit Patel NIT Calicut
+# Data-Science-Analytics-Regression-Project-Bengaluru-Home-Price-Predictor-By-Ankit-Patel-NIT-Calicut
+Data-Science-Analytics-Regression-Project-Bengaluru-Home-Price-Predictor-By-Ankit-Patel-NIT-Calicut
